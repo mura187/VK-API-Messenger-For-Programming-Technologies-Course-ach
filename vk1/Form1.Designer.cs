@@ -166,7 +166,7 @@
             this.History.FormattingEnabled = true;
             this.History.HorizontalScrollbar = true;
             this.History.ItemHeight = 20;
-            this.History.Location = new System.Drawing.Point(12, 78);
+            this.History.Location = new System.Drawing.Point(12, 74);
             this.History.Name = "History";
             this.History.Size = new System.Drawing.Size(342, 264);
             this.History.TabIndex = 16;
