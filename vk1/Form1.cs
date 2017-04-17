@@ -19,7 +19,7 @@ namespace WindowsFormsApplication4
         public Form1()
         {
             InitializeComponent();
-
+                
             textBox3.Visible = false;
             History.Visible = false;
             button3.Visible = false;

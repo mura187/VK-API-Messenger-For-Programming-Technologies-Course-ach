@@ -55,7 +55,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(163, 28);
             this.textBox1.TabIndex = 6;
-            this.textBox1.Text = "+77774000488";
+            this.textBox1.Text = "+7";
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // textBox2
@@ -68,7 +68,6 @@
             this.textBox2.PasswordChar = '•';
             this.textBox2.Size = new System.Drawing.Size(163, 34);
             this.textBox2.TabIndex = 7;
-            this.textBox2.Text = "mstxxxd";
             this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // button1
@@ -167,7 +166,7 @@
             this.History.FormattingEnabled = true;
             this.History.HorizontalScrollbar = true;
             this.History.ItemHeight = 20;
-            this.History.Location = new System.Drawing.Point(12, 74);
+            this.History.Location = new System.Drawing.Point(12, 78);
             this.History.Name = "History";
             this.History.Size = new System.Drawing.Size(342, 264);
             this.History.TabIndex = 16;
@@ -219,7 +218,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(361, 501);
+            this.ClientSize = new System.Drawing.Size(358, 501);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
